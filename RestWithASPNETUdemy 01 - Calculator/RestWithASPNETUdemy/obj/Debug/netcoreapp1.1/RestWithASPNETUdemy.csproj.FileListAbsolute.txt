@@ -1,0 +1,10 @@
+C:\Beto\Estudos\Udemy\RestWithASP-NET\ProjetosAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp1.1\RestWithASPNETUdemy.deps.json
+C:\Beto\Estudos\Udemy\RestWithASP-NET\ProjetosAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp1.1\RestWithASPNETUdemy.runtimeconfig.json
+C:\Beto\Estudos\Udemy\RestWithASP-NET\ProjetosAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp1.1\RestWithASPNETUdemy.runtimeconfig.dev.json
+C:\Beto\Estudos\Udemy\RestWithASP-NET\ProjetosAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp1.1\RestWithASPNETUdemy.dll
+C:\Beto\Estudos\Udemy\RestWithASP-NET\ProjetosAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp1.1\RestWithASPNETUdemy.pdb
+C:\Beto\Estudos\Udemy\RestWithASP-NET\ProjetosAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp1.1\RestWithASPNETUdemy.csprojResolveAssemblyReference.cache
+C:\Beto\Estudos\Udemy\RestWithASP-NET\ProjetosAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp1.1\RestWithASPNETUdemy.csproj.CoreCompileInputs.cache
+C:\Beto\Estudos\Udemy\RestWithASP-NET\ProjetosAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp1.1\RestWithASPNETUdemy.AssemblyInfo.cs
+C:\Beto\Estudos\Udemy\RestWithASP-NET\ProjetosAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp1.1\RestWithASPNETUdemy.dll
+C:\Beto\Estudos\Udemy\RestWithASP-NET\ProjetosAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp1.1\RestWithASPNETUdemy.pdb
